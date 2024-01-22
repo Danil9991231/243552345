@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "1234234213412"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "sass"
+		},
+		{
+			"path": "vendor"
+		}
+	],
+	"settings": {}
+}
